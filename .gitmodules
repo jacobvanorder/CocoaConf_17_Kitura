@@ -1,0 +1,3 @@
+[submodule "BaseballCards"]
+	path = BaseballCards
+	url = https://github.com/jacobvanorder/BaseballCards.git
